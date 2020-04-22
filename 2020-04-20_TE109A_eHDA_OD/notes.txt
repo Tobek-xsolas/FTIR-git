@@ -1,0 +1,7 @@
+sample: TE109A, eHDA, 1% HOD in H20
+
+heating rate: 5K/min
+
+Pressure: from 2.3*10^-2 to 1.5*10^-2
+
+Scan time: 30s
